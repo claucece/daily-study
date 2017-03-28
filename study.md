@@ -32,3 +32,4 @@
 * [The bit twiddler](http://bits.stephan-brumme.com/)
 * [The Aggregate Magic Algorithms](http://aggregate.org/MAGIC/)
 * [How to "Build" a Computer](http://www.cs.umd.edu/class/sum2003/cmsc311/Notes/)
+* [Git](https://githowto.com/setup)
