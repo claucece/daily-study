@@ -14,6 +14,7 @@
 * [ ] [The Wealth of Nations](https://www.amazon.com/Wealth-Nations-Adam-Smith/dp/1604598913) by Adam Smith: one chapter a weak
 
 ## To Check
+
 * [The Strobe Protocol](http://eprint.iacr.org/2017/003.pdf) by Mike Hamburg
 * [Videos of RWC](https://www.youtube.com/channel/UCQiIRDBmp3pfTdRJ99EeDEw/videos?shelf_id=0&sort=dd&view=0) and
   [program](https://www.realworldcrypto.com/rwc2017/program)
@@ -25,3 +26,9 @@
 * [The Yacas Book of Algorithms](http://yacas.sourceforge.net/Algo.book.pdf) by the Yacas team
 * [Non-Cooperative Games](https://www.amazon.com/Evolution-Cooperation-Revised-Robert-Axelrod/dp/0465005640) by Jhon Nash
 * [Points in n-Person Games](http://www.sscnet.ucla.edu/polisci/faculty/chwe/austen/nash1950.pdf) by Jhon Nash
+* [Computer Science 315 Lecture Notes](http://www.cs.uwm.edu/classes/cs315/Bacon/Lecture/HTML/)
+* [Bit Manipulation](https://www.hackerearth.com/practice/notes/bit-manipulation/)
+* [Advanced bit manipulation-fu](http://realtimecollisiondetection.net/blog/?p=78)
+* [The bit twiddler](http://bits.stephan-brumme.com/)
+* [The Aggregate Magic Algorithms](http://aggregate.org/MAGIC/)
+* [How to "Build" a Computer](http://www.cs.umd.edu/class/sum2003/cmsc311/Notes/)
